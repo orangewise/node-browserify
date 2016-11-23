@@ -34,7 +34,7 @@
     "deps-sort": "^2.0.0",
     "domain-browser": "~1.1.0",
     "duplexer2": "~0.1.2",
-    "events": "~1.1.0",
+    "events": "~1.1.1",
     "glob": "^7.1.1",
     "has": "^1.0.0",
     "htmlescape": "^1.1.0",
