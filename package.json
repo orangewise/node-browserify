@@ -51,7 +51,7 @@
     "querystring-es3": "~0.2.0",
     "read-only-stream": "^2.0.0",
     "readable-stream": "^2.0.2",
-    "resolve": "^1.1.4",
+    "resolve": "^1.2.0",
     "shasum": "^1.0.0",
     "shell-quote": "^1.4.3",
     "stream-browserify": "^2.0.0",
