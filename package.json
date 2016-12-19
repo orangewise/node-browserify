@@ -26,7 +26,7 @@
     "browser-resolve": "^1.11.0",
     "browserify-zlib": "~0.1.2",
     "buffer": "^5.0.0",
-    "concat-stream": "~1.5.1",
+    "concat-stream": "~1.6.0",
     "console-browserify": "^1.1.0",
     "constants-browserify": "~1.0.0",
     "crypto-browserify": "^3.0.0",
