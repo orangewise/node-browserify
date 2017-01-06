@@ -47,7 +47,7 @@
     "parents": "^1.0.1",
     "path-browserify": "~0.0.0",
     "process": "~0.11.0",
-    "punycode": "^2.0.1",
+    "punycode": "^2.1.0",
     "querystring-es3": "~0.2.0",
     "read-only-stream": "^2.0.0",
     "readable-stream": "^2.0.2",
